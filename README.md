@@ -16,10 +16,10 @@
   
   ##
  <div style="display: inline_block"><br>
-  <img align="center" alt="Sah-Python" height="30" width="40" src="https://icongr.am/devicon/photoshop-line.svg?size=128&color=color=ffffff">
-  <img align="center" alt="Sah-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Sah-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Sah-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Sah-PS" height="30" width="40" src="https://icongr.am/devicon/photoshop-plain.svg?size=128&color=007bff">
+  <img align="center" alt="Sah-AI" height="30" width="40" src="https://icongr.am/devicon/illustrator-plain.svg?size=128&color=fa7900">
+  <img align="center" alt="Sah-AE" height="30" width="40" src="https://icongr.am/simple/adobeaftereffects.svg?size=128&color=ab00fa&colored=false">
+  <img align="center" alt="Sah-LR" height="30" width="40" src="https://icongr.am/simple/adobelightroomcc.svg?size=128&color=008efa&colored=false">
   <img align="center" alt="Sah-SQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor">
 </div>
   
