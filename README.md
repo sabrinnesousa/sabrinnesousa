@@ -18,9 +18,11 @@
   ##
  <div style="display: inline_block"><br>
   <img align="center" alt="Sah-PS" height="30" width="40" src="https://icongr.am/devicon/photoshop-plain.svg?size=128&color=007bff">
+  <img align="center" alt="Sah-LR" height="30" width="40" src="https://icongr.am/simple/adobelightroomcc.svg?size=128&color=008efa&colored=false">
   <img align="center" alt="Sah-AI" height="30" width="40" src="https://icongr.am/devicon/illustrator-plain.svg?size=128&color=fa7900">
   <img align="center" alt="Sah-AE" height="30" width="40" src="https://icongr.am/simple/adobeaftereffects.svg?size=128&color=ab00fa&colored=false">
-  <img align="center" alt="Sah-LR" height="30" width="40" src="https://icongr.am/simple/adobelightroomcc.svg?size=128&color=008efa&colored=false">
+  <img align="center" alt="Sah-PR" height="30" width="40" src="https://icongr.am/simple/adobepremiere.svg?size=128&color=8400f0&colored=false">
+
 </div>
   
   ##
