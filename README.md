@@ -9,7 +9,7 @@ Sou formada em Jornalismo e em transição para a área de programação. Atualm
 <img 
     align="left" 
     alt="HTML"
-    title="HTML" 
+    title="PYTHON" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
@@ -17,7 +17,7 @@ Sou formada em Jornalismo e em transição para a área de programação. Atualm
 <img 
     align="left" 
     alt="HTML"
-    title="HTML" 
+    title="JAVASCRIPT" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" 
@@ -33,7 +33,7 @@ Sou formada em Jornalismo e em transição para a área de programação. Atualm
 <img 
     align="left" 
     alt="HTML"
-    title="HTML" 
+    title="CSS" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" 
@@ -41,7 +41,7 @@ Sou formada em Jornalismo e em transição para a área de programação. Atualm
 <img 
     align="left" 
     alt="HTML"
-    title="HTML" 
+    title="SQL" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor">
