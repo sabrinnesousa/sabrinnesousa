@@ -1,21 +1,52 @@
-## Olá! 👋
+# 👩🏻‍💻 Sabrinne Sousa
 
-<div>
-  Me chamo Sabrinne Sousa, formada em Jornalismo e em transição para a área de programação. Atualmente, estou finalizando meu curso de Análise e Desenvolvimento de Sistemas, e meu objetivo é trabalhar em projetos que combinem minha experiência em comunicação com minhas novas habilidades em tecnologia. Tenho uma trajetória diversificada, com experiência em comunicação, design e TI, e estou animada para contribuir com projetos inovadores e desafiadores.
-</div>
+Sou formada em Jornalismo e em transição para a área de programação. Atualmente, estou finalizando meu curso de Análise e Desenvolvimento de Sistemas, e meu objetivo é trabalhar em projetos que combinem minha experiência em comunicação com minhas novas habilidades em tecnologia. Tenho uma trajetória diversificada, com experiência em comunicação, design e TI, e estou animada para contribuir com projetos inovadores e desafiadores.
 
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" 
+/>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor">
+<br>
 ##
-
-<h1>💻 Tools i know:  </h1>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Sah-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Sah-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Sah-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Sah-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Sah-SQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor">
-</div>
-  
-  ##
  <div style="display: inline_block"><br>
   <img align="center" alt="Sah-PS" height="30" width="40" src="https://icongr.am/devicon/photoshop-plain.svg?size=128&color=007bff">
   <img align="center" alt="Sah-LR" height="30" width="40" src="https://icongr.am/simple/adobelightroomcc.svg?size=128&color=008efa&colored=false">
@@ -24,29 +55,26 @@
   <img align="center" alt="Sah-PR" height="30" width="40" src="https://icongr.am/simple/adobepremiere.svg?size=128&color=8400f0&colored=false">
 
 </div>
-  
-  ##
-  <h1>🌐 Social Media:</h1>
-<div> 
-  <a href="https://www.instagram.com/sabrinne" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:sabrinnesousalima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/sabrinne-sousa-095927152/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
 
-##
+---
 
-<div>
-  
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula"
-    media="(prefers-color-scheme: dark)"
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=sabrinnesousa&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
   />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabrinnesousa&theme=dracula&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-</div>
+
+</p>
