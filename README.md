@@ -1,6 +1,7 @@
 #  Sabrinne Sousa 👩🏻‍💻
+**`Desenvolvedora FullStack Jr`**
 
-Sou formada em Jornalismo e em transição para a área de programação. Atualmente, estou finalizando meu curso de Análise e Desenvolvimento de Sistemas, e meu objetivo é trabalhar em projetos que combinem minha experiência em comunicação com minhas novas habilidades em tecnologia. Tenho uma trajetória diversificada, com experiência em comunicação, design e TI, e estou animada para contribuir com projetos inovadores e desafiadores.
+Formada em Jornalismo e em transição para a área de programação, estou concluindo o curso de Análise e Desenvolvimento de Sistemas. Meu objetivo é atuar em projetos que integrem minha experiência em comunicação com as habilidades que desenvolvi em tecnologia. Com uma trajetória diversificada em comunicação, design e TI, estou motivada a contribuir com soluções criativas e inovadoras para desafios reais.
 
 ---
 
